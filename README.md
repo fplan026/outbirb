@@ -3,6 +3,10 @@
 ## Welcome to OutBirb
 This is the OutBirb project. We are glad you are here. Let's fuck shit up!
 
-<b/> HELLO!</b>
+**HELLO!**
+--
+- This is a little test
+- We like it
+- We will do more of it.
 
-<i/> We love that you're here... please don't leave us...</i>
+*We love that you're here... please don't leave us...*
